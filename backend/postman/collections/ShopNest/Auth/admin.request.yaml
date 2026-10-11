@@ -1,0 +1,5 @@
+$kind: http-request
+name: admin
+url: ""
+method: GET
+order: 1000
